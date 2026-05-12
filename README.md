@@ -1,16 +1,92 @@
-# React + Vite
+# 🚀 Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern portfolio built with React and Vite showcasing my frontend skills.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
 
-## React Compiler
+- Vercel: https://portfolio-react-delta-ashy.vercel.app/
+- GitHub Pages: https://alhumaid-dev.github.io/portfolio-react/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive design
+- Built with React
+- Fast development with Vite
+- Component-based architecture
+- Git & GitHub workflow
+- Deployment with Vercel / Netlify
+
+---
+
+## 🛠 Technologies Used
+
+- React
+- Vite
+- JavaScript
+- CSS
+- Git
+- GitHub
+
+---
+
+## 📂 Project Structure
+
+```bash
+portfolio-react/
+├── public/
+├── src/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/alhumaid-dev/portfolio-react.git
+cd portfolio
+npm install
+npm run dev
+```
+
+---
+
+## 🚀 Deployment
+
+This project can be deployed easily with:
+- Vercel
+- Netlify
+- GitHub Pages
+
+---
+
+## 👨‍💻 Author
+
+Muhamed Al-Humaid
+
+🔗 GitHub: https://github.com/alhumaid-dev/
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+## 📌 About
+
+This project is part of my learning journey in frontend development.  
+It focuses on building modern, responsive UI using React and Vite.
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
