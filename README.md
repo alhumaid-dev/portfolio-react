@@ -10,8 +10,8 @@ A modern portfolio built with React and Vite showcasing my frontend skills.
 
 ## 🌐 Live Demo
 
-- 🔵 [Vercel](https://portfolio-react-delta-ashy.vercel.app/)
-- 🟢 [GitHub Pages](https://alhumaid-dev.github.io/portfolio-react/)
+- 🔵 [Vercel](https://portfolio-react-orpin-beta.vercel.app/)
+
 ---
 
 ## ✨ Features
