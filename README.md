@@ -1,13 +1,18 @@
 # 🚀 Portfolio Website
 
 A modern portfolio built with React and Vite showcasing my frontend skills.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alhumaid-dev)
 
 ---
 
+
 ## 🌐 Live Demo
 
-- Vercel: https://portfolio-react-delta-ashy.vercel.app/
-- GitHub Pages: https://alhumaid-dev.github.io/portfolio-react/
+- 🔵 [Vercel](https://portfolio-react-delta-ashy.vercel.app/)
+- 🟢 [GitHub Pages](https://alhumaid-dev.github.io/portfolio-react/)
 
 ---
 
@@ -53,7 +58,7 @@ portfolio-react/
 
 ```bash
 git clone https://github.com/alhumaid-dev/portfolio-react.git
-cd portfolio
+cd portfolio-react
 npm install
 npm run dev
 ```
@@ -87,7 +92,3 @@ This project is open source and available under the MIT License.
 
 This project is part of my learning journey in frontend development.  
 It focuses on building modern, responsive UI using React and Vite.
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
