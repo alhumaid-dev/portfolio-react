@@ -7,7 +7,9 @@ export default function Home() {
                 </head>
                 
                 <body>
+                    
                     <h1>Velkommen til min HTML-side!</h1>
+                    
                     <p>Dette er en <em>simpel HTML-side</em> indlejret i en <strong>React-komponent</strong>.</p>
                                        
                     <ul>
