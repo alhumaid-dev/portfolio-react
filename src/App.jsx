@@ -8,7 +8,7 @@ import ProjectDetails from './pages/ProjectDetails'
 import Contact from './pages/Contact'
 import Home from './pages/Home'
 import Footer from './pages/Footer'
-import LinkHtml from './pages/LinkHtml'
+
 
 export default function App() {
     return (
@@ -19,9 +19,7 @@ export default function App() {
         <Route path="/projects" element={<Projects />} />
         <Route path="/projects/:id" element={<ProjectDetails />} /> 
         <Route path="/contact" element={<Contact />} />
-        <Route path="/learn-html" element={<LinkHtml />} />
       </Routes>
-      <LinkHtml />
       <Footer />
     </>
   )

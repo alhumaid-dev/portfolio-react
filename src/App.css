@@ -1,11 +1,12 @@
-body {
+/* body {
   margin: 0;
  font-family: Arial, sans-serif;
   background: #0f172a;
   color: white;
 }
 
-/* Navbar */
+
+ Navbar 
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -24,7 +25,7 @@ body {
   list-style: none;
 }
 
-/* Hero */
+ Hero 
 .hero {
   text-align: center;
   height: 80vh;
@@ -60,7 +61,7 @@ body {
   
 }
 
-/* Active link */
+ Active link 
 .active {
   border-bottom: 2px solid #38bdf8;
   color: #38bdf8;
@@ -80,5 +81,15 @@ body {
 .nav-links a:hover::after {
   width: 100%;
 }
+*/
 
+.classeHome {
+  background-color: #000000;
+  color: #5524e6;
+}
+
+#idHome {
+  background-color: #000000;
+  color: #523c94;
+}
 
